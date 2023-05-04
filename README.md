@@ -1,4 +1,5 @@
-# Statistical functions written in python
+# Statistical Functions
+Statistical functions written in python
 ---
 
 ## Mean / Average
