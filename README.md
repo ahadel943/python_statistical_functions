@@ -16,3 +16,7 @@ Statistical functions written in python
 ## Range
 ### A function calculate the range of a data series.\
 ### The difference between the max value and the min value.
+
+## Tools
+### Python 3.8
+### VS Code 1.77.3
