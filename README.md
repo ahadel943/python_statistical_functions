@@ -2,7 +2,7 @@
 Statistical functions written in python
 ---
 
-## Mean / Average
+## - Mean / Average
 ### A function calculate the average value of a given numerical data series.\
 ### Mean or Average is a measure of central tendency.\
 ### The sum of the numerical values of a data series divided by its count.
