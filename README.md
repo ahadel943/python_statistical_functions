@@ -16,6 +16,14 @@ Statistical functions written in python
 ## Range
 ### A function calculate the range of a data series.\
 ### The difference between the max value and the min value.
+---
+
+## Minimum
+### A function that finds the lowest value in a data series.
+---
+
+## Maximum
+### A function that finds the highest value in a data series.
 
 ## Tools
 ### Python 3.8
